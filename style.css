@@ -1,6 +1,7 @@
 body {
   font: 14px Arial, sans-serif;
   background-color: black;
+  color: lightblue;
 }
 
 .axis path,
@@ -87,7 +88,7 @@ a.ui_link:hover, a.ui_link:active {
 }
 #container-right {
   width: 80%;
-  float: left;
+  clear: both;
 }
 #logo {
   border-radius: 1em;
@@ -107,12 +108,11 @@ a.ui_link:hover, a.ui_link:active {
   width: 100%;
 }
 #infoTextArea {
-  background: none repeat scroll 0 0 lightblue;
+  background: none repeat scroll 0 0 clear;
   padding-left: 1em;
   margin-left: 1em;
-  width: 90%;
+  width: 25%;
   border-radius: 1em;
-  box-shadow: 5px 5px 5px #666;
 }
 
 #TestInfoAreaTitle {
