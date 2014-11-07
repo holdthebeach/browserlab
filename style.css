@@ -264,13 +264,15 @@ li.speedResultsAreaBoxes{
 }
 .speedResultsArea{
   display: inline-block;
+  border-width: 5px;
+  border-style: solid;
 }
 .speedResultsAreaBottom{
   display: inline-block;
-  border-color: lightblue;
+ /* border-color: lightblue;
   border-radius: 1;
   border-style: solid;
-  border-width: 5px;
+  border-width: 5px;*/
   padding:10px;
   text-align: left;
 }
