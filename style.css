@@ -64,7 +64,7 @@ h2.tabTitleActive {
 }
 
 a.ui_link, a.ui_link:link, a.ui_link:visited {
-  background: rgba(20, 137, 204, 1.0);
+  background: rgba(255, 0, 11, 1.0);
   display: block;
   padding: .5em;
   font-weight: bold;
@@ -80,7 +80,7 @@ a.ui_link:hover, a.ui_link:active {
   font-weight: bold;
   color: #fff;
   border-radius: 1em;
-} 
+}
 #container-left {
   width: 15%;
   min-width: 150px;
