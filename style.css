@@ -273,8 +273,10 @@ li.speedResultsAreaBoxes{
 }
 .speedResultsArea{
   display: inline-block;
+    width: 600px;
   border-width: 5px;
   border-style: solid;
+    float: left;
 }
 .speedResultsAreaBottom{
   display: inline-block;
